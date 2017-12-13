@@ -1,8 +1,7 @@
 {
-  "name": "bastion",
+  "name": "mineman",
   "version": "6.3.1",
-  "description": "Bastion: A Discord Bot that can do Administration, Moderation, Searches, can play Music, Games, has User Levels, Virtual Currencies, a good sense of Humor and can even talk with you!",
-  "url": "https://bastionbot.org/",
+  "description": "Mineman: A Discord Bot that can do Administration, Moderation, Searches, can play Music, Games, has User Levels, Virtual Currencies, a good sense of Humor and can even talk with you!",
   "main": "index.js",
   "scripts": {
     "test:lint": "./node_modules/.bin/eslint .",
@@ -12,15 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TheBastionBot/Bastion.git"
+    "url": "https://github.com/iBlatant/mineman1.git"
   },
-  "author": "Sankarsan Kampa",
-  "authorUrl": "https://sankarsankampa.com",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/TheBastionBot/Bastion/issues"
-  },
-  "homepage": "https://bastionbot.org",
+  "homepage": "Soon!",
   "dependencies": {
     "chalk": "^2.3.0",
     "cheerio": "^1.0.0-rc.2",
